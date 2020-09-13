@@ -1,0 +1,3 @@
+In Python you can store alot of information!
+In Python you can write much simpler code than other languages
+In Python you can do OOP with classes!
